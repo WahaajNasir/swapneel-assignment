@@ -8,9 +8,6 @@ This project aims to predict the likelihood of mental health concerns among indi
 - [Model Details](#model-details)
 - [Dataset](#dataset)
 - [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [License](#license)
 - [Known Errors](#known-errors)
 
 ## Project Overview
@@ -74,6 +71,11 @@ To set up the project on your local machine:
 
 1. Clone this repository:
 
+
 ```bash
 git clone https://github.com/WahaajNasir/swapneel-assignment.git
 cd swapneel-assignment
+```
+
+## Known Errors
+The visualizations contain some questions that cannot be visualized due to inconsistencies between the columns of the OSMI surveys between 2016 and 2017-2020. Some survey responses and columns are not consistent across the years, causing gaps in the visualizations for those questions. This issue will need to be addressed by normalizing the survey columns and ensuring consistency across different survey years.
