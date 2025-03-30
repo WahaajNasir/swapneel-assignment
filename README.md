@@ -9,6 +9,7 @@ This project aims to predict the likelihood of mental health concerns among indi
 - [Dataset](#dataset)
 - [Installation Instructions](#installation-instructions)
 - [Known Errors](#known-errors)
+- [Dashboard Demo](#dashboard-demo)
 
 ## Project Overview
 
@@ -83,3 +84,7 @@ The visualizations contain some questions that cannot be visualized due to incon
 ## Streamlit App
 The dashboard can be viewed at the following link:
 https://mental-health-analysis-wahaaj.streamlit.app/
+
+## Dashboard Demo
+The dashboard demo can be viewed on the following youtube link:
+https://youtu.be/EeCVkqqpAfU
