@@ -79,3 +79,7 @@ cd swapneel-assignment
 
 ## Known Errors
 The visualizations contain some questions that cannot be visualized due to inconsistencies between the columns of the OSMI surveys between 2016 and 2017-2020. Some survey responses and columns are not consistent across the years, causing gaps in the visualizations for those questions. This issue will need to be addressed by normalizing the survey columns and ensuring consistency across different survey years.
+
+## Streamlit App
+The dashboard can be viewed at the following link:
+https://mental-health-analysis-wahaaj.streamlit.app/
